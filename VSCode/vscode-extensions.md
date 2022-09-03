@@ -22,7 +22,7 @@
   - Material Theme Icons
   - vscode-icons
 - 标签自动补全
-- Auto Rename Tag
+  - Auto Rename Tag
 - 代码美化
 
   - Beautify
@@ -58,3 +58,8 @@
   - Jest
   - Jest Runner
   - Jest Snippets
+
+- 全键盘操作
+  - Vim
+- 项目管理器
+  - Project Manager
