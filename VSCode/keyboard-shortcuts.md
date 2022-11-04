@@ -84,6 +84,7 @@
 ### Ctrl + Alt
 
 1. `Ctrl` + `Alt` + `↑` / `↓`：使光标统一在多行同一位置进行操作
+2. `Ctrl` + `Alt` + `Enter`：将查找（`Ctrl `+ `f`）到的内容全部替换为指定内容
 
 ### Shift + Alt
 
