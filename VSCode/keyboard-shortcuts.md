@@ -80,6 +80,7 @@
 9. `Ctrl` + `Shift` + `n`：新建窗口
 10. `Ctrl` + `Shift` + `/`：块注释 / 取消块注释
 11. `Ctrl` + `Shift` + ```：新建终端
+12. `Ctrl` + `Shift` + `c`：唤醒 Command Prompt
 
 ### Ctrl + Alt
 
