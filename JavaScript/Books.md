@@ -9,3 +9,5 @@
 ### 4.《深入理解 ES6》—— Nicholas C. Zakas
 
 ### 5.《你不知道的 JavaScript（上 中 下）》—— Kyle Simpson
+
+### 6.《JavaScript DOM 编程艺术》—— [英] Jeremy Keith [加] Jeffrey Sambells
