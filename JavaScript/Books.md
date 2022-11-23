@@ -11,3 +11,5 @@
 ### 5.《你不知道的 JavaScript（上 中 下）》—— Kyle Simpson
 
 ### 6.《JavaScript DOM 编程艺术》—— [英] Jeremy Keith [加] Jeffrey Sambells
+
+### 7. 《JavaScript 忍者秘籍》—— [美] 约翰 · 莱西格 (John Resig) [美] 拜尔 · 贝比奥特 (Bear Bibeault) [美] 约瑟普 · 马瑞斯 (Josip Maras)
