@@ -101,3 +101,12 @@
 # 其他
 
 1. 键入 `/**` 后， 会出现 JSDoc 的相关提示，然后按 `Enter` 即可：可生成带有 params（参数）、returns（返回值）等更加详细的注释信息
+
+   ```javascript
+   /**
+    * 返回 num1 和 num2 的和
+    * @param {number} num1 
+    * @param {number} num2
+    * @returns {number} num1 和 num2 的和
+    */
+   ```
