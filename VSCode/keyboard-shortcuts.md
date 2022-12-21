@@ -85,6 +85,7 @@
 10. `Ctrl` + `Shift` + `/`：块注释 / 取消块注释
 11. `Ctrl` + `Shift` + `：新建终端
 12. `Ctrl` + `Shift` + `c`：唤醒 Command Prompt
+13. `Ctrl` + `Shift` + `←` / `→`：以 单词 / 字串 为间隔，光标依次选中（可与 `Ctrl` + `Alt` + `↑` / `↓` 结合使用）
 
 ### Ctrl + Alt
 
